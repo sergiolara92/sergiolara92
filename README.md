@@ -74,7 +74,7 @@ I'm a Fullstack Web Developer 💻
 
 ## 💌 Connect with me:
 
-<a href="https://www.linkedin.com/in/sergiolarademarcos/"><img align="left" height="30" src="./ImagesFolder/linkedin.png" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/sergiolarademarcos/" target=”_blank”><img align="left" height="30" src="./ImagesFolder/linkedin.png" alt="LinkedIn">
 
 <br>
 
