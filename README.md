@@ -13,13 +13,13 @@ I'm a Fullstack Web Developer 💻
 
 ### Languages: 
 
-<img height="50" align="left" src="/ImagesFolder/java.png" alt="Java">
+<img height="50" align="left" src="./ImagesFolder/java.png" alt="Java">
 
-<img height="50" align="left" src="/ImagesFolder/html5.png" alt="HTML5">
+<img height="50" align="left" src="./ImagesFolder/html5.png" alt="HTML5">
 
-<img height="50" align="left" src="/ImagesFolder/css.png" alt="CSS3">
+<img height="50" align="left" src="./ImagesFolder/css.png" alt="CSS3">
 
-<img height="50" align="left" src="/ImagesFolder/javascript.png" alt="JavaScript">
+<img height="50" align="left" src="./ImagesFolder/javascript.png" alt="JavaScript">
 
 <br><br><br>
 
@@ -47,9 +47,9 @@ I'm a Fullstack Web Developer 💻
 
 <img height="50" align="left" src="./ImagesFolder/intellij.png" alt="intelliJ">
 
-<img height="50" align="left" src="./ImagesFolder/androidstudio.png" alt="androidstudio">
+<img height="60" align="left" src="./ImagesFolder/androidstudio.png" alt="androidstudio">
 
-<img height="40" align="left" src="./ImagesFolder/visualstudio.png" alt="VSCode">
+<img height="50" align="left" src="./ImagesFolder/visualstudio.png" alt="VSCode">
 
 <img height="50" align="left" src="./ImagesFolder/netbeans.png" alt="netbeans">
 
