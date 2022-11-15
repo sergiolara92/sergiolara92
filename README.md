@@ -13,13 +13,13 @@ I'm a Fullstack Web Developer 💻
 
 ### Languages: 
 
-<img height="50" align="left" src="./ImagesFolder/java.png" alt="Java">
+<img height="50" align="left" src="/ImagesFolder/java.png" alt="Java">
 
-<img height="50" align="left" src="./ImagesFolder/html5.png" alt="HTML5">
+<img height="50" align="left" src="/ImagesFolder/html5.png" alt="HTML5">
 
-<img height="50" align="left" src="./ImagesFolder/css.png" alt="CSS3">
+<img height="50" align="left" src="/ImagesFolder/css.png" alt="CSS3">
 
-<img height="50" align="left" src="./ImagesFolder/javascript.png" alt="JavaScript">
+<img height="50" align="left" src="/ImagesFolder/javascript.png" alt="JavaScript">
 
 <br><br><br>
 
@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# sergiolara
+
