@@ -40,6 +40,8 @@ Title | Language / Framework | Description
 
 <img height="50" align="left" src="./ImagesFolder/spring.png" alt="Spring">
 
+<img height="50" align="left" src="./ImagesFolder/Junit.png" alt="JUnit">
+
 <img height="50" align="left" src="./ImagesFolder/vue.png" alt="vueJS">
 
 <img height="50" align="left" src="./ImagesFolder/vite.png" alt="vite">
@@ -54,7 +56,9 @@ Title | Language / Framework | Description
 
 <img height="50" align="left" src="./ImagesFolder/mysql.png" alt="mysql">
 
-<img height="50" align="left" src="./ImagesFolder/oraclesql.png" alt="mysql">
+<img height="50" align="left" src="./ImagesFolder/oraclesql.png" alt="oraclesql">
+
+<img height="50" align="left" src="./ImagesFolder/postgresql.png" alt="postgresql">
 
 <br><br><br>
 
