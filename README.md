@@ -16,9 +16,10 @@ Title | Language / Framework | Description
 :--- | :---: | :---
 [Back-end Bank System API](https://github.com/sergiolara92/IronHack_Backend_Project_BankingSystemAPI.git) | Java, Spring | Bank System exercise as a 1-week bootcamp  individual final project
 [Front-end To-Do List](https://sergiolara92.github.io/IronHack_FrontEnd_Project_ToDoList/#/), [Code](https://github.com/sergiolara92/IronHack_FrontEnd_Project_ToDoList.git)| Vue.js | To-Do List exercise as a bootcamp individual final project
-[Front-end Pokemon]() | Html, CSS, JavaScript | Pokemon front-end basic exercise
+[Front-end Pokemon](https://sergiolara92.github.io/frontendPokedex/), [Code](https://github.com/sergiolara92/frontendPokedex.git) | Vue.js | Pokemon front-end exercise with Vue.js
+[Front-end Responsive Web](https://github.com/sergiolara92/responsiveWeb.git) | Html, CSS, Javascript | Responsive website using Html, CSS and Javascript
 [Front-end Youtube Replica](https://github.com/sergiolara92/youtubeReplica.git) | Html, CSS, Bulma | Simple Youtube replica using Html, CSS and Bulma
-[Front-end Shopping Cart](https://github.com/sergiolara92/shoppingCart.git) | Html, CSS, JavaScript | Simple shopping cart using Html, CSS and JavaScript
+[Front-end Shopping Cart](https://github.com/sergiolara92/shoppingCart.git) | Html, CSS, Javascript | Simple shopping cart using Html, CSS and JavaScript
 
 
 ## 👩🏽‍💻Technicall Skills:
